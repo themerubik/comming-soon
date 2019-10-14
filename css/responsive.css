@@ -1,0 +1,46 @@
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    .demo_item img{
+        height: 165px;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+    .demo_sec_title p {
+        padding: 20px 80px 70px 80px;
+    }
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+    #banner {
+        height: 200px;
+    }
+    .banner_title h1 {
+        font-size: 20px;
+    }
+    .btn a {
+        padding: 10px 30px;
+        font-size: 14px;
+    }
+    .demo_sec_title p {
+        padding: 20px 15px 70px 15px;
+    }
+    .demo_item img {
+        height: 140px;
+    }
+}
+
+@media (max-width: 575.98px) {
+    #banner {
+        height: 200px;
+    }
+    .banner_title h1 {
+        font-size: 20px;
+    }
+    .btn a {
+        padding: 10px 30px;
+        font-size: 14px;
+    }
+    .demo_sec_title p {
+        padding: 20px 15px 70px 15px;
+    }
+}

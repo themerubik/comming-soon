@@ -1,0 +1,275 @@
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    .ds-element {
+        border-top-left-radius: 55px;
+        border-bottom-right-radius: 55px;
+    }
+    .newsletter {
+        width: 40%;
+    }
+    .newsletter form {
+        margin-top: 60px;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+    .site_wraper {
+        padding: 60px 0;
+    }
+    .title h1 {
+        font-size: 30px;
+    }
+    .ds-element-value {
+        font-size: 30px;
+    }
+    .ds-element {
+        width: 115px;
+        height: 115px;
+        border-top-left-radius: 55px;
+        border-bottom-right-radius: 55px;
+    }
+    #countdown {
+        width: 80%;
+    }
+    .newsletter {
+        width: 55%;
+    }
+    .newsletter form {
+        margin-top: 60px;
+    }
+    .info p {
+        padding: 10px 10% 40px 10%;
+    }
+
+    .modal-content {
+        padding: 40px;
+    }
+    .about_img img {
+        padding-top: 40px;
+    }
+    .about_info p {
+        font-size: 14px;
+        padding: 30px 0px;
+    }
+    .contact_info {
+        margin-top: 30px;
+    }
+    .contact_title p {
+        font-size: 14px;
+        padding: 30px 0;
+    }
+    .contact_form input {
+        padding: 5px 12px 5px 0;
+        font-size: 14px;
+    }
+    .contact_form textarea {
+        font-size: 14px;
+    }
+    .contact_form .submit_btn {
+        width: 22%;
+        font-size: 16px;
+        border-top-left-radius: 20px;
+        border-bottom-right-radius: 20px;
+    }
+    .copy_right {
+        margin-top: 20px;
+    }
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+    .site_wraper {
+        padding: 60px 0;
+    }
+    .title h1 {
+        font-size: 22px;
+    }
+    .ds-element-value {
+        font-size: 22px;
+    }
+    .ds-element {
+        width: 115px;
+        height: 115px;
+        border-top-left-radius: 45px;
+        border-bottom-right-radius: 45px;
+    }
+    #countdown {
+        width: 80%;
+    }
+    .newsletter {
+        width: 55%;
+    }
+    .newsletter form {
+        margin-top: 60px;
+    }
+    .info p {
+        padding: 10px 10% 40px 10%;
+    }
+    .social_media {
+        float: inherit;
+    }
+    .social_media ul li a i {
+        margin-bottom: 20px;
+    }
+    .modal_call {
+        text-align: center;
+        margin-top: 10px;
+    }
+    .modal-content {
+        padding: 40px;
+    }
+    .about_img img {
+        padding-top: 40px;
+    }
+    .about_info p {
+        font-size: 14px;
+        padding: 30px 0px;
+    }
+    .contact_info {
+        margin-top: 30px;
+    }
+    .contact_info p {
+        padding: 0 60px;
+    }
+
+    .contact_title p {
+        font-size: 14px;
+        padding: 30px 0;
+    }
+    .contact_form input {
+        padding: 5px 12px 5px 0;
+        font-size: 14px;
+    }
+    .contact_form textarea {
+        font-size: 14px;
+    }
+    .contact_form .submit_btn {
+        width: 30%;
+        font-size: 16px;
+        border-top-left-radius: 20px;
+        border-bottom-right-radius: 20px;
+    }
+    .copy_right {
+        margin-top: 20px;
+    }
+}
+
+@media (max-width: 575.98px) {
+    .site_wraper {
+        padding: 60px 0;
+    }
+    .title h1 {
+        font-size: 22px;
+    }
+    .ds-element-value {
+        font-size: 22px;
+    }
+    .ds-element {
+        width: 115px;
+        height: 115px;
+        border-top-left-radius: 45px;
+        border-bottom-right-radius: 45px;
+    }
+    #countdown {
+        width: 80%;
+    }
+    .newsletter {
+        width: 55%;
+    }
+    .newsletter form {
+        margin-top: 60px;
+    }
+    .info p {
+        padding: 10px 10% 40px 10%;
+    }
+    .social_media {
+        float: inherit;
+    }
+    .social_media ul li a i {
+        margin-bottom: 20px;
+    }
+    .modal_call {
+        text-align: center;
+        margin-top: 10px;
+    }
+    .modal-content {
+        padding: 40px;
+    }
+    .about_img img {
+        padding-top: 40px;
+    }
+    .about_info p {
+        font-size: 14px;
+        padding: 30px 0px;
+    }
+    .contact_info {
+        margin-top: 30px;
+    }
+    .contact_info p {
+        padding: 0 60px;
+    }
+
+    .contact_title p {
+        font-size: 14px;
+        padding: 30px 0;
+    }
+    .contact_form input {
+        padding: 5px 12px 5px 0;
+        font-size: 14px;
+    }
+    .contact_form textarea {
+        font-size: 14px;
+    }
+    .contact_form .submit_btn {
+        width: 30%;
+        font-size: 16px;
+        border-top-left-radius: 20px;
+        border-bottom-right-radius: 20px;
+    }
+    .copy_right {
+        margin-top: 20px;
+    }
+}
+
+@media (max-width:480px) {
+    .ds-element {
+        border-top-left-radius: 28px;
+        border-bottom-right-radius: 28px;
+    }
+    .modal-content {
+        padding: 40px 0px;
+    }
+    .contact_form .submit_btn {
+        width: 30%;
+        font-size: 16px;
+    }
+    .contact_form .submit_btn {
+        border-top-left-radius: 24px;
+        border-bottom-right-radius: 24px;
+    }
+}
+
+@media (max-width:320px) {
+    .newsletter {
+        width: 100%;
+    }
+    #countdown {
+        width: 100%;
+    }
+    .ds-element {
+        border-top-left-radius: 28px;
+        border-bottom-right-radius: 28px;
+    }
+    .modal_call {
+        margin-top: 0px;
+    }
+    .modal-content {
+        padding: 40px 0px;
+    }
+    .contact_form .submit_btn {
+        width: 40%;
+        font-size: 16px;
+    }
+    .contact_form .submit_btn {
+        border-top-left-radius: 20px;
+        border-bottom-right-radius: 20px;
+    }
+}
